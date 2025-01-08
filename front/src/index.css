@@ -16,3 +16,12 @@
 body{
     background-color: var(--color-black);
 }
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-yellow); 
+    border-radius: 2px;
+}

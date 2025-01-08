@@ -1,0 +1,39 @@
+.titlePrinc{
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titleName{
+    color: var(--color-white);
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.titleCV{
+    margin-top: 2rem;
+    display: flex;
+    gap: 2rem;
+}
+
+.titleCV a{
+    color: black;
+    background-color: var(--color-yellow);
+    font-size: 1.1rem;
+    padding: 1rem;
+    flex-direction: row;
+    border-radius: 50px;
+    transition: all .4s;
+}
+
+.titleCV a:hover{
+    background-color: #ffd269ba;
+}
+
+.divImg img{
+    border: 3px solid var(--color-yellow);
+    height: 300px;
+    border-radius: 50%;
+}
