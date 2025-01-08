@@ -33,7 +33,7 @@
 }
 
 .divImg img{
-    border: 3px solid var(--color-yellow);
+    border: 2.9px solid var(--color-yellow);
     height: 300px;
     border-radius: 50%;
 }
