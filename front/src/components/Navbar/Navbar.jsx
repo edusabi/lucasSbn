@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className={Style.divPrincNavbar}>
 
       <div>
-        <h1>Navbar</h1>
+        <h1>Lucas Cauã</h1>
       </div>
 
       <div className={Style.linksContainer}>
